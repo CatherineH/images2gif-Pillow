@@ -1,0 +1,5 @@
+build
+images2gif_Pillow.egg-info/*
+images2gif/__pycache__
+# when built with setup.py install, eggs are produced in the dist folder
+dist/*.egg
